@@ -1,4 +1,4 @@
-### Distributed transaction processing using event-driven kafka saga choreography and Most useful kafka configuration.
+###  Distributed transaction processing using event-driven kafka saga choreography and Most useful kafka configuration details.
 KAFKA_LOG_DIRS: KAFKA_LOG_DIRS defines where Kafka stores its persistent data.Kafka persists
 all messages to disk, and these log segments are stored in the directory specified in the log.dir config.
 Messages for each topic and partition
